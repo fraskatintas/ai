@@ -15,7 +15,7 @@
         "PERPLEXITY_API_KEY",
         "REPLICATE_API_KEY",
         "NODE_ENV",
-        "ASSISTANT_ID"
+        "ASSISTANT_IDS"
       ],
       "outputs": ["dist/**", ".next/**", "!.next/cache/**"]
     },
